@@ -44,13 +44,11 @@ THEN I should have proper build scripts for a webpack application
 
 Opening the text editor looks as follows:
 
-// TODO: ADD CORRECT PICTURE
-![seeding-data](./assets/images/seeding.png)
+![text-ediot](./assets/images/text-editor.png)
 
-// TODO: ADD LINK
 The following link leads to a deployed version of the application on Heroku:
 
-
+https://pwa-text-editor-jate-2022.herokuapp.com/
 
 ## Table of Contents
 
